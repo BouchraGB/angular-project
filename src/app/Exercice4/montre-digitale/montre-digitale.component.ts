@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import {ServiceMontreService} from 'src/app/Services/service-montre.service';
+import {ServiceMontreService} from '../../Services/service-montre.service';
 
 @Component({
   selector: 'app-montre-digitale',
