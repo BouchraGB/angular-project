@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from "@angular/router";
-import {ServiceMovieApiService} from 'src/app/Services/service-movie-api.service';
+import {ServiceMovieApiService} from '../../Services/service-movie-api.service';
 import {DomSanitizer} from '@angular/platform-browser';
 
 @Component({
